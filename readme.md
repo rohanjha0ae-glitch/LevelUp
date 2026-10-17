@@ -8,7 +8,7 @@ The repository also includes a companion React + Vite web module (`level-up-load
 
 Grab the latest Android installation package directly from GitHub:
 
-* **[Download Latest APK Release]([https://drive.google.com/file/d/1pTv4EVuptxJK76C72ZTfJMBTxA_nG5n4/view?usp=sharing])**
+* **[Download Latest APK Release](https://drive.google.com/file/d/1pTv4EVuptxJK76C72ZTfJMBTxA_nG5n4/view?usp=sharing)** *
 
 To install, download the `.apk` file directly onto your Android device (Android 7.0+ / API 24+) and enable "Install unknown apps" in your browser or file manager settings.
 
